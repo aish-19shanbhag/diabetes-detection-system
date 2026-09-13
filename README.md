@@ -12,7 +12,7 @@ Originally built during my Bachelor's degree, with help from a classmate on part
 
 ## Tech Stack
 
-- C++ (standard library only — no external dependencies)
+- C++ (standard library only, no external dependencies)
 
 ## Running the Project
 
